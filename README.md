@@ -1,4 +1,3 @@
-[6.md](https://github.com/user-attachments/files/29462655/6.md)
 # 🛍️ ShopVerse — Modern Online Storefront
 
 **ShopVerse** is a polished, fully responsive e-commerce storefront built with pure HTML, CSS, and vanilla JavaScript — no frameworks, no build step, no backend lock-in. It demonstrates how far modern front-end engineering can go on its own: a complete shopping experience covering product discovery, filtering, a persistent cart, wishlist, checkout flow, and a clean account area, all packaged behind a refined design system with light/dark themes.
@@ -506,15 +505,16 @@ MIT License © 2025 Hari Babu C H
 
 ---
 
-# Author
+## 👤 Author
 
 **HARI BABU C H**
 
-- **Role:** Frontend Developer | Data Analyst
-- **GitHub:** [https://github.com/haribabux7](https://github.com/haribabux7)
-- **LinkedIn:** [https://www.linkedin.com/in/haribabux7](https://www.linkedin.com/in/haribabux7)
-- **Portfolio:** [https://www.haribabu.me](https://www.haribabu.me)
-- **Email:** [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
+Frontend Developer | Data Analyst | Chennai, India
+
+- 🌐 Portfolio: [https://www.haribabu.me](https://www.haribabu.me)
+- 💼 LinkedIn: [https://www.linkedin.com/in/haribabux8](https://www.linkedin.com/in/haribabux8)
+- 🐙 GitHub: [https://github.com/haribabux8](https://github.com/haribabux8)
+- 📧 Email: [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
 
 ---
 
@@ -527,13 +527,3 @@ MIT License © 2025 Hari Babu C H
 
 ---
 
-## 📌 Project Information
-
-| Field | Value |
-|-------|-------|
-| Version | 1.0.0 |
-| Designed Date | November 2025 |
-| Status | Active |
-| License | MIT |
-
-> Built with ❤️ by **Hari Babu C H** — if ShopVerse helps you, please ⭐ the repo!
